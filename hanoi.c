@@ -3,7 +3,7 @@
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
-    printf("premiestni kamen 2 z %d do %d\n", a, b);
+    printf("premiestni kamen 1 z %d do %d\n", a, b);
   else
   {
     hanoi(n - 1, a, 3 - a);
