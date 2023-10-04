@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Filip Srsen
-2.
+2. Monika Buchalova
 3.
 4.
