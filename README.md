@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Filip Srsen
 2. Monika Buchalova
 3. Filip Kotoc
-4.
+4. Oliver Sidor
