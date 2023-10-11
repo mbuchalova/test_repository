@@ -6,9 +6,9 @@ void hanoi(int n, int a, int b)
     printf("premiestni kamen 1 z %d do %d\n", a, b);
   else
   {
-    hanoi(n - 1, a, 3 - a);
+    hanoi(n - 1, a, 6 - a - b);
     printf("premiestni kamen %d z %d do %d\n", n, a, b);
-    hanoi(n - 1, 3 - a - b, b);
+    hanoi(n - 1, 6 - a - b, b);
   }
 }
 
